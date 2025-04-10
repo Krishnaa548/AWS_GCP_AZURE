@@ -62,7 +62,7 @@ Bonus : GitHub Actions for automating everything!
 Try It Yourself!
 Clone the repo :
 
-  1.git clone https://github.com/[your-username]/[repo-name].git  
+  1.git clone https://github.com/Krishnaa548/AWS_GCP_AZURE.git  
 Set up your cloud accounts (use student credits if available!).
 
 Follow my lab notes : Each folder has a "README" with my setup steps.
